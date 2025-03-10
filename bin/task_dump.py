@@ -12,9 +12,7 @@ LOG = r'C:\Users\esisvc\Projects\Monitoring\log\Monitoring_log.txt'
 print(today)
 site = get_keepass_entry('Webhook For Teams Monitoring', 'password')
 
-#site = "https://envirotechservices0.webhook.office.com/webhookb2/1413ff64-a59e-409f-9eff-01d6338b2825@0503c475-d695-4a93-b708-cd271f1b183c/IncomingWebhook/e66ca7b77457418399194ecc74dca030/0a11c728-296e-46db-9549-ffe889c558e4"
-# site = "https://envirotechservices0.webhook.office.com/webhookb2/1413ff64-a59e-409f-9eff-01d6338b2825@0503c475-d695-4a93-b708-cd271f1b183c/IncomingWebhook/ac1230c14741498a9e3b445f88267866/0a11c728-296e-46db-9549-ffe889c558e4"
-# msteam(site, "Starting Scheduled Task Monitoring", "Trent Radford")
+
 try:
     msteam(site, "Starting Scheduled Task Monitoring", ['Trent Radford', 'Chris Delaney'])
     TASK_ENUM_HIDDEN = 1
