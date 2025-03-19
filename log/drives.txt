@@ -1782,3 +1782,16 @@
 2025-03-17 15:00:02: envirodb01 Free Space: 26.59 GB
 2025-03-17 15:00:02: envirodb01 Ratio: 73.26 %
 2025-03-17 15:00:02: All drives have room
+2025-03-18 15:00:02: ESIPYDEV Total Capacity: 249.40 GB
+2025-03-18 15:00:02: ESIPYDEV Used Space: 146.83 GB
+2025-03-18 15:00:02: ESIPYDEV Free Space: 102.57 GB
+2025-03-18 15:00:02: ESIPYDEV Ratio: 58.87 %
+2025-03-18 15:00:02: ESISQL Total Capacity: 249.40 GB
+2025-03-18 15:00:02: ESISQL Used Space: 177.26 GB
+2025-03-18 15:00:02: ESISQL Free Space: 72.14 GB
+2025-03-18 15:00:02: ESISQL Ratio: 71.08 %
+2025-03-18 15:00:02: envirodb01 Total Capacity: 99.45 GB
+2025-03-18 15:00:02: envirodb01 Used Space: 72.90 GB
+2025-03-18 15:00:02: envirodb01 Free Space: 26.55 GB
+2025-03-18 15:00:02: envirodb01 Ratio: 73.31 %
+2025-03-18 15:00:02: All drives have room
